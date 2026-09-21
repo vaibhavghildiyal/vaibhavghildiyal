@@ -404,7 +404,7 @@ Covered:
 
 # 📄 Resume
 
-📥 **[Download My Resume]([Vaibhav_Ghildiyal_21-09-2026.pdf](https://github.com/user-attachments/files/32465067/Vaibhav_Ghildiyal_21-09-2026.pdf))**
+📥 **[Download My Resume](https://github.com/user-attachments/files/32465067/Vaibhav_Ghildiyal_21-09-2026.pdf)**
 
 ---
 
